@@ -12,6 +12,6 @@ echo 'define sh_script =' >> Makefile
 cat $shscript >> Makefile
 echo 'endef' >> Makefile
 echo ${makeinvoke3} >> Makefile
-echo 'ONESHELL:' >> Makefile
+echo '.ONESHELL:' >> Makefile
 echo -e '${GREEN}Shell script successfully converted to Makefile'
 
