@@ -6,6 +6,8 @@ Relative directories supported
 Upcoming Features:
 
 GUI with yad 
+
 Support for peanut package manager
-Concatenate shell script
+
+Concatenate shell script tool
 Create install script with installscript-creator-linux
